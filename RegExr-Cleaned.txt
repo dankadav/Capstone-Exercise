@@ -1,0 +1,552 @@
+Date, Person, To, From
+7/6/16, 2 Other Ranks,London,91st O.S.Bn. C.E.F.
+16/6/16, 1 Other Rank,London,Engineer Training Depot Ottawa Ontario.
+21/8/16, Unit,HALIFAX N.S,London Ontario.
+30/8/16, Unit,LIVERPOOL,Halifax.
+30/8/16, Unit, SHORNCLIFFE Station, Liverpool.
+15/9/16, Major C.E.BROWN+Captains A.TURNER+J.MORIARTY+E.H.YOUNG and ten Other Ranks,Granville Canadian Special Hospital Ramsgate,Shorcliffe.
+15/9/16, Captain R.H.HENDERSON, A.D.M.S. Canadians FOLKESTONE,Shorncliffe.
+15/9/16, 1 Other Rank,Canadian Pay Office London,Shorncliffe.
+18/9/16, Capt.C.L.DOUGLAS,No.2 Canadian Mobile Laboratory FOLKESTONE,Moore Barracks Hospital.
+20/9/16, 1 Other Rank,No.2 Canadian Mobile Laboratory FOLKESTONE,Moore Barracks Hospital.
+23/9/16, Major J.C.WILSON,Canadian Red Cross Special Hospital BUXTON,Shorncliffe.
+5/10/16, 8 Other Ranks,Duchess of Connaught's Canadian Red Cross Convalescent Hospital TAPLOW BUCKS,Shorncliffe.
+8/10/16, Capt.G.M.BROCK and 3 Other Ranks,SOUTHAMPTON DOCKS,Shorncliffe.
+10/10/16, Capt.G.M.BROCK and 3 Other Ranks,Shorncliffe,SOUTHAMPTON.
+20/10/16, Lt.Colonel E.SEABORN,Ontario Military Hospital ORPINGTON,Shorncliffe.
+2/11/16, Lt. Colonel E. Seaborn+Major J.C. Wilson+Captains A.E. Fraleigh and G.M. Brock+Lieut. J.A. Dickie and 33 Other Ranks,Seaford Sussex,Shorncliffe.
+25/11/16, Nursing Sisters A. Hicks+J. Macallum+A.E. Whitely ,Seaford,Duchess of Connaught's Canadian Red Cross Hospital Taplow.
+25/11/16, Nursing Sisters E. Orme ,Seaford,Moore Barracks Canadian Hospital Shorncliffe.
+25/11/16, Nursing Sisters S.B. Popham and B.M. Wilson ,Seaford,Canadian Red Cross Special Hospital Buxton.
+28/11/16, 1 Other Rank ,Moore Barracks Canadian Hospital Shorncliffe,Seaford.
+30/11/16, 1 Other Rank ,Seaford,C.A.M.C. Training School Shorncliffe.
+21/1/17, Lt.Colonel E.Seaborn+Major J.C.Wilson+Captains J.S.Hudson+A.Turner+E.H.Young+J.Moriarty+G.M.Brock+Lauut. J.A.Dickie and 65 Other Ranks ,Canadian Military Hospital Eastbourne,Seaford.
+21/1/17, Nursing Sisters A.Hicks+E.Orme+S.B.Popham+J.Macallum+B.M.Wilson and A.E.Whitely ,Canadian Military Hospital Eastbourne,Seaford.
+22/1/17, Nursing Sisters C.A.King and B.M.Richards ,Eastbourne,Moore Barracks Canadian Hospital.
+22/1/17, Nursing Sisters G.McCue and A.L.McPhee ,Eastbourne,Canadian Convalescent Hospital Bearwood Park Wokingham.
+23/1/17, Nursing Sister E.A.Davies ,Eastbourne,No.9 CanStationary Hospital.
+24/1/17, Nursing Sisters V.H.Keene and M.I.MacRoberts ,Eastbourne,West Cliff Canadian Hospital Folkstone.
+26/1/17, Nursing Sisters J.Glendenning+P.A.Ivey+M.F.Parkins,Eastbourne,C.A.M.C. Training School.
+3/2/17, Nursing Sister C.S.Y.Philip,Eastbourne,C.A.M.C Training School Shorncliffe.
+5/2/17, Matron H.E.Dulmage ,Eastbourne,C.A.M.C Training School Shorncliffe.
+5/1/17, Nursing Sisters L.M.Armstrong+M.Cornell+E.B.Foryth+M.L.Shedden and A.W.Wilson,Eastbourne,C.A.M.C Training School Shorncliffe.
+16/2/17, 1 Other Rank ,Eastbourne,Military Hospital Halifax.
+17/2/17, Nursing Sister F.Collyer ,Eastbourne,C.A.M.C Training School.
+21/2/17, Nursing Sister O.K.Ismay ,Eastbourne,C.A.M.C Training School.
+3/3/17, 1 Other Rank,6th Reserve Battalion C.E.F. Seaford,Eastbourne.
+10/3/17, Nursing Sisters L.M.Armstrong+M.Cornell+E.B.Forsth+W.L.Shedien and C.S.Y.Philip,C.A.M.C.Training School Shorncliffe,Eastbourne.
+10/3/17, 1 Other Rank,Eastbourne,Canadian Pay Office London.
+22/3/17, 1 Other Rank ,Eastbourne,Canadian Military Police Shorncliffe.
+27/3/17, 1 Other Rank ,Eastbourne,D.A.D.M.S. Canadians Seaford.
+7/4/17, Nursing Sister P.A.Ivey,Daughters of the Empire Canadian Red Cross Hospital for Officers London,Eastbourne.
+13/4/17, Nursing Sister E.F.Taggie ,Eastbourne,King’s Canadian Red Cross Hospital Bushy Park.
+18/4/17, Nursing Sisters E.L.Boyden+N.M.Foreman and K.M.Macdonald,Eastbourne,C.A.M.C.Depot.
+20/4/17, Captains E.A.McCusker and J.E.McCorvie,Eastbourne,D.A.D.M.S. Canadians Seaford.
+27/4/17, Hon.Captain & Chaplain (Rev.) H.Montgomery,Eastbourne,Seaford arear.
+27/4/17, 6 Other Ranks,Eastbourne,Easter Ontario Regimental Depot Seaford.
+5/5/17, Captain E.A.McCusker,C.A.M.C.Depot Shorncliffe, Eastbourne.
+6/5/17, 1 Other Rank,Eastern Ontario Regtl Depot Seaford,Eastbourne.
+11/5/17, Nursing Sisters J.Chisholm and R.McClelland,Eastbourne,C.A.M.C.Depot.
+12/5/17, Nursing Sisters E.J.Bowie and F.Roadhouse,Eastbourne,C.A.M.C.depot.
+14/5/17, Captain J.B.Hanley,Eastbourne,D.A.D.M.S. Seaford.
+15/5/17, Nursing Sisters J.Glendenning and A.W.Wilson,Daughters of the Empire Canadian Red Cross Hospital for Officers London,Eastbourne.
+16/5/17, 1 Other Rank ,Eastbourne,C.A.M.C.Depot Shorncliffe.
+23/5/17, Major C.Brown (C.A.D.C.),Bramshott area,Eastbourne.
+7/6/17, Captain E.Bice,C.A.M.C.Depot Shorncliffe,Eastbourne.
+8/6/17, Captain C.H.V.Smith,Eastbourne,B.C.Regimental Depot Seaford.
+11/6/17, 8 Other Ranks,Eastbourne,Eastern Ontario Regimental Depot Seaford.
+21/6/17, Nursing Sisters M.E.Grierson and D.Pelletier,Eastbourne,C.A.M.C.Depot.
+21/6/17, 3 Other Ranks,Eastbourne,C.A.S.C. Seaford.
+7/7/17, Major C.E.Brown,C.A.M.C.Depot Shorncliffe,Eastbourne.
+8/7/17, Captain F.S.Burke ,Eastbourne,C.A.M.C.Depot. (Vice Major C.E.Brown)
+12/7/17, 1 Other Rank,Eastern Ont.Regtl.Depot Seaford,Eastbourne.
+15/7/17, 1 Other Rank,Eastbourne,Eastern Ont.Regtl.Depot Seaford.
+21/7/17, Nursing Sister C.A.King,C.A.M.C.Depot,Eastbourne.
+23/7/17, 1 Other Rank,Eastbourne,C.A.M>c.Depot Westenhanger.
+25/7/17, 1 Other Rank ,Eastbourne,Princess Patricia Canadian Red Cross Special Hospital. Ramsgate. 
+6/8/17, 1 Other Rank,Royal Artillery Cadet School London N.W.,Eastbourne
+6/8/17, 1 Other Rank,Eastbourne,C.A.M.C.Depot.
+8/8/17, Nursing Sister S.B.Popham ,Eastbourne,C.A.M.C.Depot.
+9/8/17, Nursing Sisters J.Johnson and E.L.Hibbs,Eastbourne,C.A.M.C.Depot.
+13/8/17, Nursing Sisters A.M.Kennedy and L.I.Thomson ,Eastbourne,Canadian Military Hospital Basingstake.
+15/8/17, Captain J.S.Hudson,C.A.M.C.Depot,Eastbourne.
+15/8/17, Ho. Capt. & Quartermaster G.M.Brock,C.A.M.C.Depot,Eastbourne.
+16/8/17, Hon.Lieut & Quartemaster S.H.Coates,Eastbourne,C.A.M.C.depot.
+15/8/17, Captain W.E.Jones,Eastbourne,C.A.M.C.Depot.
+15/8/17, Captain V.E.Latimer,Eastbourne,West Cliff Canadian Hospital Folkestone.
+15/8/17, Captain V.E.Latimer, D.A.D.M.S. Canadians Seaford,Eastbourne.
+18/8/17, Lieut.A.M.Jeffrey,Eastbourne,C.A.M.C.Depot.
+20/8/17, Two Other Ranks,C.A.M.S.Depot,Eastbourne.
+21/8/17, Nursing Sister F.M.Anderson ,Eastbourne,C.A.M.C.Depot.
+24/8/17, Captains J.B.Hanley and J.E.McCorvie and C.H.V.Smith,Eastbourne,C.A.M.C.Depot.
+1/9/17, Hon Lieut. J.A.Dickie,C.A.M.C.Depot,Eastbourne.
+15/9/17, Ten Other Ranks ,Eastbourne,C.A.M.C.Depot.
+26/9/17, Major F.S.Burke,Headquarters Seaford,Eastbourne.
+26/9/17, Twelve Other Ranks ,Eastbourne,C.A.M.C.depot.
+28/9/17, Twenty-six Other Ranks ,Eastbourne,C.A.M.C.Depot.
+29/9/17, Captain J.O.Baker ,Eastbourne,C.A.M.C.Depot
+29/9/17, Captains W.F.Kenny+T.G.Macdonald+J.G.R.Stone and W.J.H.Gould,Eastbourne,Granville Canadian Special Hospital Ramsgate.
+24/9/17, Lt.Col. E.Seaborn+Major J.C.Wilson+Capts. W.H.Eager+A.E.Pralkigh+K.H.Young+R.H.Henderson+C.L.Douglas+C.P.Jento+J.B.Hanley+Robt. Henderson+C.H.V.Smith and J.E.McCorvie+Capts. W.E.Jones and V.E.Latimer ,Eastbourne,No.10 Canadian Stationary Hospital
+24/9/17, Lieut. A.M.Jeffrey and Hon. Lieut & Q.M. A.H.Coates ,Eastbourne,No.10 Canadian Stationary Hospital
+29/9/17, Capt. J.O.Baker ,Eastbourne,C.A.M.C.Depot
+31/10/17, Captains M.C.Wallace and J.McKee,Eastbourne,C.A.M.C.Depot
+11/10/17, Capt. W.H.Eager,Granville Canadian Special Hospital Buxton,Eastbourne.
+11/10/17, Capt W.Curtis,Eastbourne,C.A.M.C.Depot.
+17/10/17, Matron H.E.Dulmage+Nursing Sisters F.Collyer+K.A.Davis+A.Hicks+O.K.Ismay+V.H.Keene+A.M.Kennedy+J.Macallum+M.T.Macroberts+G.McCue+M.E.Maillard+K.Orme+S.B.Poham+B.M.Richards+L.I. Thompson+A.K. Whitely+B.M.Wilson+K.L.Boyden+K.J.Bowie+J.Chisholm+N.M.Foreman+G.Frazee+M.E Grierson+J.M.Humley+E.L.Hibbs+J.Johnston+E.H.Kirkby+R.A.McClelland+K.W.Macdonalds+C.B.McLenaghan+D.Pelletier+A.M.Powers+F.Roadhouse and M.Tait and 140 Other Ranks ,Eastbourne,No.10 Canadian Stationary Hospital
+17/10/17, Capt. W.Curtis+Capt. J.L.McLean+Hon.Capt. & Chaplain H.Montgomery,Eastbourne,No.10 Canadian Stationary Hospital.
+17/10/17, 10 Other Ranks,Eastbourne,No.10 Canadian Stationary Hospital.
+29/10/17, 25 Other Ranks ,Eastbourne,C.A.M.C.Depot.
+31/10/17, 23 Other Ranks ,Eastbourne,D.A.D.M.S. Shoreham.
+31/10/17, 10 Other Ranks,D.A.D.M.S. Seaford,Eastbourne.
+7/11/17, Capt.A.W.Hunter,Eastbourne,C.A.M.C.Depot.
+3/11/17, Nursing Sisters F.M.Anderson and A.L.McPhee ,Eastbourne,C.A.M.C.Depot.
+6/11/17, Captain C.L.Douglas,C.A.M.C.Depot,Eastbourne.
+9/11/17, Captain R.H.Henderson,No.15 Canadian General Hospital Taplov,Eastbourne.
+12/11/17, Nursing Sister L.I.Thomson,No.12 Can.General Hospital Bramhott,Eastbourne.
+14/11/17, Capt Robt.Henderson,C.A.M.C.Depot,Eastbourne.
+15/11/17, Nursing Sisters E.L.Hibbs and J.Johnston, #5 Can.Gen.Hpl., Liverpool,Eastbourne.
+16/11/17, Captain J.L.Walker,Eastbourne,C.A.M.C.Depot
+17/11/17, Captain A.E.Fralkigh,C.A.M.C.Depot,Eastbourne.
+19/11/17, Captain C.P.Jento,C.A.M.C.Depot,Eastbourne.
+21/11/17, Hon. Capt.& Q.M. G.M.Brock ,Eastbourne,C.A.M.C.Depot.
+26/11/17, Nursing Sisters J.H.Barron and E.J.Patterson ,Eastbourne,C.A.M.C.Depot.
+27/11/17, Nursing Sister G.A.Connor ,Eastbourne,No.16 Can. General Hospital.
+27/11/17, 1 Other Rank ,Eastbourne,D.A.D.M.S. Seaford.
+28/11/17, Captain W.H.Eager,Granville Canadian Special Hospital Buxton,Eastbourne.
+29/11/17, Lt.Colonel E.Seaborn+Major J.C.Wilson+Captains E.H.Young+R.H.Henderson+A.B.Simes+C.J.Wheaton+A.J.Hebert+J.E.McCorvie+A.E.Wood+J.L.Walker+A.E.Walkey+Q.M. & Hon+Capt G.M.Brock+Lieut. W.C.Page+Matron H.E.Dulmage+Nursing Sisters H.M.B.Acton+L.E.Baker+E.A.Davies+N.M.Foreman+E.M.Hogan+M.L.Heughan+V.H.Keene+M.Lowe+E.I.Lindsay+M.Matthews+M.B.Montkith+F.S.Mutch+M.Mason+E.J.Miller+J.Macallum+C.McKay+M.S.Macdonald+G.McCue+A.L.McPhee+K.M.Macdonald+J.Norton+E.Orme+S.B.Popham+D.Pelletier+B.M.Richards+A.E.Whitely+G.Wadcock+K.E.White and 116 Other Ranks,No.10 Canadian Stationary Hospital,Eastbourne
+29/11/17, Hon.Capt.& Chaplain J.K.Tibbets,No.10 Can.Stat.Hpl,Eastbourne.
+29/11/17, 1 Other Rank,No.10 Can.Stationary Hospital,Eastbourne.
+3/12/17, Capt. E.C.Beat ,Eastbourne,C.A.M.C.Depot
+5/12/17, 16 Nursing Sisters,Baisingstake,Eastbourne
+4/12/17, Capt. E.H.Young,Eastbourne,No.10 Canadian Stationary Hospital
+4/12/17, 1 Other Rank,Eastbourne,No.10 Canadian Stationary Hospital.
+4/12/17, 1 Other Rank,Eastbourne,K.O.R.D. Seaford.
+10/12/17, Capt C.B.Kidd ,Eastbourne,C.A.M.C.Depot
+6/12/17, Captains O.J.S.Little and S.R.McGregor ,Eastbourne,C.A.M.C.Depot
+6/12/17, 4 Other Ranks ,Eastbourne,C.A.M.C.Depot.
+6/12/17, 1 Other Rank,Eastbourne,Canadian Convalescent Hospital Bromley.
+6/12/17, 2 Other Ranks,Eastbourne,C.A.P.C.
+14/12/17, Major C.J.Fischk.,Eastbourne,C.A.M.C.Depot
+10/12/17, QM.& Hon. Capt. K.G.Sargent,Eastbourne,C.A.M.C.Depoit
+10/12/17, 10 Other Ranks,C.A.M.C.Depot,Eastbourne.
+11/12/17, 2 Other Ranks,Eastbourne,C.E.T.D.
+19/12/17, Capt. C.McMane ,Eastbourne,C.A.M.C.Depot
+15/12/17, Nursing Sister F.M.Anderson,Headquarters,Eastbourne
+13/12/17, Capt. C.E.Preston ,Eastbourne,C.A.M.C.Depot
+24/12/17, Nursing Sister A.M.Anderson,C.A.M.C.Depiot,Eastbourne
+18/12/17, Capt. A.W.Trefry,Eastbourne,C.A.M.C.Depot
+21/12/17, Capt. H.B.Hetherington,Eastbourne,C.A.M.CDepot
+21/12/17, 2 Other Ranks,C.A.M.C.Depot,Eastbourne
+29/12/17, Matron J.Cameron Smith ,Eastbourne,C.A.M.C.Depot
+8/12/19, Nursing Sister B.M.Wilson ,Eastbourne,No.10 Canadian Stationary Hospital
+31/12/17, 6 Other Ranks,C.A.M.C.Depot,Eastbourne
+4/1/18, Captain J.B. Swindon,,Eastbourne,C.A.M.C.Depot
+9/1/18, Nursing Sister J.R. Hamilton ,Eastbourne,C.A.M.C. Depot
+8/1/18, Nursing Sister R. Scatcherd,Eastbourne,C.A.M.C. Depot
+8/1/18, Nursing Sisters V. Walker+V.E. Page+F. Hill+G.E. Matheson+M.I.L. Reid+M.E. Mitchell,Eastbourne,C.A.M.C.Depot 
+4/1/18, Captain W.E. Jones ,C.A.M.C.Depot,Eastbourne
+7/1/18, 2 Other Ranks,C.M.C.Depot,Eastbourne
+5/1/18, 1 Other Rank,Eastbourne,B.C.R.D. for Duty
+16/1/18, 15 Other Ranks ,Eastbourne,C.A.M.C.Depot.
+10/1/18, 2 Other Ranks,C.E.T.D.Seaford,Eastbourne
+16/1/18, Hon. Captain & Q.M. E.G. Sergant ,Eastbourne,C.A.M.C.Depot
+23/1/18, Captains A.W. Trefry and H.B. Hetherington ,Eastbourne,C.A.M.C.Depot
+21/1/18, Nursing Sisters J.R. Robertson RRC and K. de Bellefeuille ,Eastbourne,C.A.M.C.Depot
+15/1/18, QM. & Hon. Lieut. A.H. Coates ,C.A.M.C.Depot,Eastbourne
+20/1/18, 1 Other Rank ,Eastbourne,C.A.M.C.Depot
+19/1/18, 2 Other Ranks ,Eastbourne,C.A.M.C.Depot
+18/1/18, 5 Other ranks ,Eastbourne,C.A.M.C. Depot
+19/1/18, 1 Other Rank ,CAMC. Depot,Eastbourne
+22/1/18, 2 Other Ranks,C.A.M.C. Depot,Eastbourne
+23/1/18, 5 Other Ranks ,C.A.M.C. Depot,Eastbourne
+16/1/18, 1 Other Rank,Eastbourne,C.A.S.C. Seaford
+16/1/18, 1 Other Rank,Ravens' Croft Military Hospital Seaford,B.C. Reg. No.8
+28/1/18, Captain J.C. Wickham,Eastbourne,C.A.M.C. Depot
+23/1/18, Nursing Sister E.M. MacKenzie ,Eastbourne,C.A.M.C. Depot
+23/1/18, 5 Other Ranks ,Eastbourne,C.A.M.C. Depot.
+9/1/18, 9 Other Ranks ,D.R.D.M.S. Seaford,C.A.M.C. Depot 
+31/1/18, Nursing Sister M.B. MacNeill ,Eastbourne,C.A.M.C. Depot 
+28/1/18, Captain L.J. Sebert,Eastbourne,C.A.M.C. Depot
+29/1/18, 2 Other Ranks ,C.A.M.C. Depot,Eastbourne
+29/1/18, 1 Other Rank,Eastbourne,C.A.S.C. Seaford
+29/1/18, 1 Other Rank,C.A.S.C. Seaford,Eastbourne.
+7/2/18, Captain A.M. Jeffrey ,C.A.M.C.Depot,Eastbourne
+2/2/18, Nursing Sister E.M. MacKenzie ,C.A.M.C.Depot,Eastbourne
+30/1/18, Lieut. J.D. Moore ,Eastbourne,No.1 Canadian General Laboratory Folkestone
+7/2/18, Lieut. A.P. Ross,Eastbourne,C.A.M.C. Depot
+29/1/18, One Other Rank ,Eastbourne,C.A.M.C.Depot
+30/1/18, One Other Rank,Eastbourne,No.1 Canadian General Laboratory Folkestone
+4/2/18, Three other ranks,Eastbourne,C.E.R.D. for quarters and Rations
+4/2/28, Three other ranks,Eastbourne,C.E.T.D.
+4/2/18, Three members of V.A.D.,HQ. London,Eastbourne
+12/2/28, Eleven other ranks ,Eastbourne,C.A.M.C. Depot
+11/2/18, One other Rank ,Canadian Trench Warfare School Berhill,Eastbourne
+19/2/18, One other Rank ,Eastbourne,C.A.M.C.Depot
+18/2/18, One other rank ,Eastbourne,C.A.M.C.Depot
+18/2/18, Thirty Four Other Ranks ,Eastbourne,C.A.M.C. Depot
+18/2/18, Twenty Three Other Ranks ,C.A.M.C.Depot,Eastbourne
+13/2/18, One other Rank,Eastbourne,C.A.S.C.Seaford
+13/2/18, One other Rank,Eastbourne,C.A.D.C. 
+21/2/18, Captains L.J. Sebert and J.D. Moore ,Eastbourne,C.A.M.C. Depot
+22/2/18, Nursing Sister M.B. MacNeill ,C.A.M.C. Depot,Eastbourne
+22/2/18, Nursing Sister B.M. Wilson ,C.A.M.C. Depot,Eastbourne
+23/2/18, Nursing Sister E.J. Bowie ,C.A.M.C. Depot,Eastbourne
+24/2/18, Nursing Sister C.B. McLenaghan ,C.A.M.C.Depot,Eastbourne
+21/2/18, Two other ranks,Eastbourne,C.A.S.C.Seaford
+23/2/18, One other rank,C.A.M.C. Depot,Eastbourne
+28/2/18, Nursing Sister S.J. Robley ,Eastbourne,C.A.M.C. Depot
+28/2/18, Lieut. A.P. Ross,C.A.M.C. Depot,Eastbourne
+5/3/18, Major G.S. Strathy ,Eastbourne,C.A.M.C. Depot
+2/3/18, Nursing Sister E.M. Aston ,Eastbourne,C.A.M.C. Depot
+26/2/18, Major C. McMame ,C.A.M.C. Depot,Eastbourne
+18/2/18, Nursing Sister E.H. Kirkby ,C.A.M.C. Depot,Eastbourne
+28/2/18, One other rank,Eastbourne,C.A.S.C. Seaford
+27/2/18, One Other rank,Eastbourne,C.E.T.D. Seaford
+2/3/18, One other Rank,Eastbourne,C.A.S.C. Seaford
+12/3/18, CM & Hon. Lieut. A.H. Coates ,Eastbourne,C.A.M.C. Depot 
+11/3/18, Nursing Sister D.D. Morrison ,Eastbourne,C.A.M.C. Depot 
+6/3/18, Two Other Ranks ,C.A.M.C. Depot,Eastbourne
+11/3/18, Two Other Ranks ,C.A.M.C. Depot,Eastbourne
+19/3/18, Major C.A. Young ,Eastbourne,C.A.M.C. Depot
+18/3/18, Nursing Sister E.J. Bowie ,Eastbourne,C.A.M.C. Depot
+13/3/18, CM. & Hon.Lieut. A.H. Coates ,C.A.M.C. Depot,Eastbourne
+18/3/18, Nursing Sister F.M. Hocken ,C.A.M.C.Depot,Eastbourne
+26/3/18, Nursing Sister C.E. Pell ,Eastbourne,C.A.M.C. Depot
+15/3/18, Nursing Sister O.K. Ismay ,C.A.M.C. Depot,Eastbourne
+14/3/18, Nursing Sister J.M. Hubley ,C.A.M.C. Depot,Eastbourne
+26/3/18, Two other ranks,Eastbourne,C.E.R.D. Seaford
+6/4/18, Qm & Hon. Lt. G.A.J. Bell,Eastbourne,C.A.M.C. Depot
+10/4/18, Nursing Sister E.H. Kirkby ,Eastbourne,C.A.M.C. Depot 
+9/4/18, Captain S.R. McGregor ,C.A.M.C. Depot,Eastbourne
+8/4/18, Nursing Sisters G.Frazke and R.A. McClelland,Granville Canadian Special Hospital Buxton,Eastbourne
+6/4/18, Seven other ranks,D.A.D.M.S.S.Seaford,Eastbourne
+17/4/18, Captain A.D. Irvine ,Eastbourne,C.A.M.C. Depot
+10/4/18, Nursing Sisters E.Walsh+A.C.C. DeWolfe+D.M.A. Birrell+LE. Reynolds ,Eastbourne,C.A.M.C. Depot
+11/4/18, Nursing Sister A.M. Powers ,C.A.M.C. Depot,Eastbourne 
+24/4/24, Nursing Sisters F. Hill and M.E. Mitchell ,C.A.M.C. Depot,Eastbourne
+18/3/18, One other rank ,Eastbourne,C.A.M.C. Depot 
+19/3/18, One other rank,Eastbourne,C.A.P.C.
+20/4/18, One other rank,2nd Discharge Depot London,Eastbourne
+30/4/18, QM. & Hon. Lt. MacDonald ,Eastbourne,C.A.M.C. Depot
+25/4/18, Nursing Sisters R.L. Galloway and E.G. Galloway ,Eastbourne,C.A.M.C.Depot
+27/4/18, Nursing Sister G.J. Conner ,C.A.M.C. Depot,Eastbourne
+30/4/18, Twenty other ranks ,Eastbourne,C.A.M.C. Depot
+30/4/18, Seven other ranks,Eastbourne,Depot No.6 Seaford
+2/5/18, Captain J.B. Hanley ,C.A.M.C. Depot,Eastbourne
+14/4/15, Nursing Sister J. Chisholm ,C.A.M.C.Depot,Eastbourne
+7/5/18, Nursing Sisters G.E. Matheson and V.E. Page ,C.A.M.C.Depot,Eastbourne
+30/4/18, One other rank,Eastbourne,C.E.R.D.
+10/5/18, Nursing sisters L.J. Fife and M.D. MacNeill ,Eastbourne,C.A.M.C.Depot
+10/5/18, QM. & Hon. Captain E.G. Sergant ,C.A.M.C.Depot,Eastbourne
+11/5/18, Nursing Sisters R.L. Galloway and A.G. Galloway ,C.A.M.C.Depot,Eastbourne
+13/5/18, Nursing sister E.J. Bowie ,C.A.M.C.Depot,Eastbourne
+13/5/18, Major C.A. Young,No.15 Canadian General Hospital Taplow,Eastbourne
+13/5/18, One other rank ,C.A.M.C. Depot,Eastbourne
+21/5/18, Captains J.A. Young and R.C. Hastings ,Eastbourne,C.A.M.C.Depot
+14/5/18, Nursing Sisters M.G. Morrison and I.S. Fargey ,Eastbourne,C.A.M.C. Depot
+15/5/18, Captain R.C. Hastings  on command,18th Canadian Reserve En. from Eastbourne
+4/5/18, One other rank ,C.A.M.C.Cas. Depot,Eastbourne
+9/5/18, One other rank ,C.A.M.C. Depots,Eastbourne
+20/4/18, One other rank ,C.A.M.C.Depot,Eastbourne
+18/5/18, Fourteen other ranks,the C.A.M.C.Depot,Eastbourne
+26/5/18, Nursing Sister F.M. Roadhouse ,Granville Can. Spcl. Hospital Buxton,Eastbourne
+23/5/18, Nursing Sister M.E. Maillard ,C.A.M.C.Depot,Eastbourne
+31/5/18., Nursing Sister M.M. Conning ,Eastbourne,C.A.M.C.Depot
+29/5/18, Nursing Sisters B.M. Mole and M.W. Miller ,Eastbourne,C.A.M.C.Depot
+29/5/18, One Other Rank ,Eastbourne,C.A.M.C.Depot
+27/5/18, One Other Rank ,C.A.M.C.Depot,Eastbourne
+29/5/18, One Other Rank ,No.15 Can. Gen. Hosp. Taplow,Eastbourne
+7/6/18, Nursing Sister J.H. Robertson ARRC. ,No.16 C.G.H. Taplow,Eastbourne
+3/6/18, One Other Rank ,Eastbourne,No.15 C.G.H.
+4/6/18, One other rank ,C.A.M.C.Casualty Depot,Eastbourne
+14/6/18, Captain W.G. Lyall ,Eastbourne,No.3 Canadian C.C.S.
+10/6/18, Nursing Sisters L.C. Sanders and E. Montgomery ,Eastbourne,C.A.M.C.Depot
+14/6/18, Nursing Sisters J.H. Barrow and E.J. Patterson ,Granville School of Massage Buxton,Eastbourne
+14/6/18, One other rank ,C.A.M.C. Casualty Depot,Eastbourne
+20/6/18, Nursing Sister E. A. Bennett ,Eastbourne,C.A.M.C. Depot 
+19/6/18, Captain W.F. Coy ,Eastbourne,No.2 C.G.H.
+20/6/18, Captain V.E. Latimer ,C.A.M.C. Depot,Eastbourne
+21/6/18, Nursing Sister E.H. Kirkby ,No.12 C.G.H. from Eastbourne
+30/6/18, Nursing Sister E.K. Moody and AM. Powers ,Eastbourne,C.A.M.C. Depot
+6/7/18, One Other Rank ,C.A.M.C. Casualty Depot,Eastbourne
+6/7/18, One Other rank ,C.A.M.C. Regimental Depot,Eastbourne
+12/7/18, Nursing Sister M.S.P. Ellis ARRC ,Eastbourne,C.A.M.C. Regimental Depot
+10/7/18, Twelve other ranks ,Eastbourne,C.A.M.C. Regimental Depot
+10/7/18, Twelve other ranks ,C.A.M.C. Regimental Depot,Eastbourne
+6/7/18, Twelve other ranks,Eastbourne,Regimental Depots Seaford
+6/7/18, Twelve other ranks,Eastbourne,Regimental Depots Seaford
+11/7/18, Four other ranks,Eastbourne,Regimental Depots Seaford
+18/7/18, Nursing sister M.N. Stevenson ,Eastbourne,No.3 C.C.S.
+25/7/18, Nursing Sister A. Canning ,Eastbourne,C.A.M.C. Regimental Depot
+20/7/18, Captain K.C. Aker ,C.A.M.C. Casualty Depot,Eastbourne
+31/7/18, Major L.L. Reford ,Eastbourne,C.A.M.C. Regimental Depot
+29/7/18, Captain C.D. Hewett struck off the struck on attachment,C.T.S. Bexhill,Eastbourne
+30/7/18, QM. & Hon. Lieut. J.A. McDonald ,No.13 Canadian General Hospital Hastings,Eastbourne
+30/8/18, QM. & Hon. Captain. JN. Wallace,Eastbourne,No.13 Canadian General Hospital Hastings
+25/7/18, One Other rank ,Eastbourne,C.A.M.C. Depot
+29/7/18, Eight other ranks ,C.A.M.C. Training and Reserve Depot,Eastbourne
+7/8/18, Captain J.W. Wallace ,Eastbourne,No.13 Can. Gen. Hosp.
+7/8/18, Major J.M. McPhedran ,Eastbourne,No.13 Can. Gen. Hosp.
+1/8/18, Captain O.J.S. Little ,C.A.M.C. Reserve and Training Depot,Eastbourne
+3/8/18, Captain C.B. Kidd ,C.A.M.C. Reserve and Training Depot,Eastbourne
+6/8/18, Captain W.G. Lyall ,No.13 Can. Gen. Hosp. from Eastbourne
+8/8/18, One other rank ,Eastbourne,C.A.M.C. Reserve and Training Depot
+6/8/18, Eight other ranks,Eastbourne,Regimental Depots Seaford
+14/8/18, Nursing Sister A.J. MacEwen ,Eastbourne,C.A.M.C. Regimental Depot
+9/8/17, Nursing Sister G.J. Connor ,Eastbourne,C.A.M.C. Regimental Depot
+13/8/18, Nursing Sisters A.R. Walker and L. Walker ,Eastbourne,C.A.M.C. Regimental Depot
+9/8/18, Major G.S. Strathy ,No.16 Can. Gen. Hosp. from Eastbourne
+10/8/18, One other rank ,C.A.M.C. Regimental Depot,Eastbourne
+30/8/18, Captain T.A. Lobbetter ,Eastbourne,C.A.M.C. Regimental Depot
+15/8/18, Five other ranks,Eastbourne,Regimental Depots Seaford
+27/8/18, One other rank ,Eastbourne,C.A.M.C. Reserve and Training Depot
+31/8/18, Eight other ranks ,Eastbourne,C.A.M.C. Reserve and Training Depot
+13/8/18, Sister M.G.Morrisred,No 10. Can. Gen. Hospital Brighton,Eastbourne
+13/9/18, Nursing Sister Hodge M.,Eastbourne,C.A.M.C. Reg Depot	
+18/9/18, Nursing Sister Daugharty M.M.,Eastbourne,C.A.M.C. Reg Depot
+23/9/18, Glendinning J.,Eastbourne,C.A.M.C. Reg Depot	
+23/9/18, McCallum F.E.M.,Eastbourne,C.A.M.C. Reg Depot	
+24/9/18, Matron J.B. Willoughby,Eastbourne, No.7 C.G.H.
+2/9/18, Morrison M.G., C.A.M.C. Reg Depot,Eastbourne
+16/9/18, Reid M.I.L., Granville Can. School of Massage,Eastbourne
+18/9/18, McLeod I.G., C.A.M.C. Reg. Depot,Eastbourne 
+20/9/18, Walker L, C.A.M.C. Reg. Depot,Eastbourne
+27/9/18, Macdonald H.C., Granville Can. Spec. Hospital,Eastbourne
+24/9/18, Matron J. Cameron Smith, No 13 C.G.H., Eastbourne 
+6/9/18, Lt.Col. C.A.Young ,C.A.M.C.Depot,Eastbourne
+2/9/18, Nursing Sister M.G.Morrison ,C.A.M.C. Regimental Depot,Eastbourne
+4/9/18, One Other Rank ,Eastbourne,C.A.M.C.Resrve and Training Depot
+3/9/18, Two Other Ranks ,C.A.M.C.Regimental Depot,Eastbourne
+13/9/18, Captain A.E.Fraleigh ,Eastbourne,C.A.M.C.Reserve and Training Depot
+6/9/18, Captains G.C.Livingstone and D.S.MacLennan ,Eastbourne,C.A.M.C.Reserve and Training Depot
+4/9/18, Captains J.A.Young and R.C.Hastings ,C.A.M.C.Regimental Depot,Eastbourne
+6/9/18, Lieut. N.W.Street,Eastbourne,P.P.C.R.C.Hospital
+6/9/18, Captain G.C.Livibgstone on Command,C.E.T.C.Seaford,Eastbourne
+6/9/18, Captain D.S.MacLennan,3rd C.C.D Seaford,Eastbourne
+9/9/18, One Other Rank ,C.A.M.C.Reserve and Training Depot,Eastbourne
+12/9/18, One Other Rank ,C.A.M.C.Regimental Depot,Eastbourne
+18/9/18, Nursing Sister M.Hodge ,Eastbourne,C.A.M.C.Regimental Depot
+16/9/18, Captain T.A.Lebbetter ,No.5 Canadian General Hospital,Eastbourne
+16/9/18, Nursing Sister M.T.L.Reid ,Granville Canadian Special Hospital Baxton,Eastbourne
+18/9/18, Nursing Sister I.G.McLeod ,C.A.M.C.Regimental Depot,Eastbourne
+14/9/18, Twelve Other Ranks ,Eastbourne,C.A.M.C.Reserve and Training Depot
+16/9/18, Four Other Ranks ,C.A.M.C.Reserve and Training Depot,Eastbourne
+16/9/18, One Other Rank ,C.A.M.C.Regimental Depot,Eastbourne
+25/9/18 Nursing Sister M.M.daugharty ,Eastbourne,C.A.M.C.Regimental Depot
+23/9/18, Nursing Sisters J.Glendinning and F.E.McCallun ,Eastbourne,C.A.M.C.Regimental Depot
+20/9/18, Nursing Sister L.Walker ,C.A.M.C.Regimental Depot,Eastbourne
+23/9/18, One Other Rank ,Eastbourne,C.A.M.C.Reserve and Training Depot
+2/9/18, One Other Rank ,P.P.C.R.C.Hospital,Eastbourne
+18/9/18, One V.A.D. attached,Eastbourne,V.A.D.Headquarters
+30/9/18, Matron D.J.Willoughby ,Eastbourne,No.7 Canadian General Hospital
+24/9/18, Matron J.Cameron-Smith ,No.13 Canadian General Hospital,Eastbourne
+27/9/18, Nursing Sister M.C.MacDonald ,Granville Canadian Special Hospital Baxton,Eastbourne
+30/9/18, Lieut. N.W.Street,C.A.M.C.Reserve and Training Depot,Eastbourne
+7/10/18, Lt.Col C.A.Young ,Eastbourne,C.A.M.C.Regimental Depot
+1/10/18, Nursing Sister B.A.Fry ,Eastbourne,C.A.M.C.R.A T.Depot
+7/10/18, Nursing Sisters E.J.Guild+K.M.MacCuish+V.Walker,No.13 C.G.H.,Eastbourne
+30/9/18, Hon.Capt. & Q M. E.J.Thurgar,Eastbourne,Bromley Convalescent Hospital
+1/10/18, One Other Rank ,C.A.M.C.Casualty Coy. from Eastbourne
+6/10/18, One Other Rank ,C.A.M.C.Casualty Coy. from Eastbourne
+5/8/18, One Other Rank ,C.A.M.C.Reserve and Training Depot,Eastbourne
+14/10/18, Captain W.Curtis ,Eastbourne,C.A.M.C.Regimental Depot
+8/10/18, Nursing Sister H.F.Gillean ,Eastbourne,C.A.M.C.Regimental Depot
+8/10/18, Nursing Sister F.H.McNally struck off,No.15 C.G.H. from Eastbourne
+8/10/18, One Other Rank ,Eastbourne,C.A.M.C.R.&T.Depot
+11/10/18, Two Other Ranks ,Eastbourne,Bromley Convalescent Hospital
+21/10/18, Captain O.E.Farley ,Eastbourne,C.A.M.C.Casualty Coy
+15/10/18, Captain J.W.Barnett ,Eastbourne,C.A.M.C.R. & T. Depot
+10/10/18, Nursing Sisters R.M.Cornett and F.H.McLeod ,Eastbourne,C.A.M.C.R. & T. Depot
+14/10/18, Nursing Sister A.G.Luke ,Eastbourne,Granville Canadian Special Hospital
+17/10/18, Nursing Sister M.C.Kerr ,Eastbourne,Bearwood Convalescent Hospital
+17/10/18, Nursing Sister K.B.Biggar ,Eastbourne,No.10 C.G.H
+19/10/18, Nursing Sister M.C.Claxton ,Eastbourne,No.10 C.G.H
+19/10/18, Captain W.Curtis ,C.A.M.C.Casualty Coy,Eastbourne
+19/10/18, Fifteen Other Ranks ,Eastbourne,C.A.M.C.R. & T. Depot
+19/10/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+17/10/18, One Other Rank ,C.A.M.C.R. & T. Depot,Eastbourne
+28/10/18, Captains A.E Perry and W.F.Kenney ,Eastbourne,No.5 C.G.H
+21/10/18, Captain O.F.Eastman ,Eastbourne,C.S.H.Etching hill
+24/10/18, Captain A.H.Wallace ,Eastbourne,C.A.M.C.R. & T. Depot
+22/10/18, Nursing Sister E.J.Johnston and K.M.Oliver ,Eastbourne,No.11 C.G.H
+24/10/18, Nursing Sisters L.Campbell and L.N.Gray ,Eastbourne,C.A.M.C.R. & T. Depot
+24/10/18, Nursing Sister R.O.Young ,Eastbourne,C.A.M.C.R. & T. Depot
+28/3/18, One Other Rank ,Eastbourne,No.1 Central lab
+26/10/18, Six Other Ranks ,Eastbourne,C.A.M.C.R. & T. Depot 
+27/10/18, six Other Ranks,Eastbourne,Regimental Depot Seaford
+1/10/18, Nursing Sister D. A. Fry.,Eastbourne, C.A.M.C.R.&T. Depot 
+8/10/18, Nursing Sister H.F. Gillean.,Eastbourne, C.A.M.C.cas. Depot
+10/10/18, Nursing Sister R.M. Cornett.,Eastbourne, No. 11 C.G.H.
+10/10/18, Nursing Sister F.H. McLeod.,Eastbourne, No. 11 C.G.H.
+14/10/18, Nursing Sister A.G. Luke.,Eastbourne ,Gran. Can. Spec. Hosp. 
+17/10/18, Nursing Sister M.C. Kerr.,Eastbourne, Bearwood G.C. Hosp.
+17/10/18, Nursing Sister K.B. Biggar.,Eastbourne, No. 11 C.G.H.
+19/10/18, Nursing Sister H.C. Claxton.,Eastbourne, No. 11 C.G.H.
+22/10/18, Nursing Sister K.J. Johnston.,Eastbourne, No. 11 C.G.H.
+22/10/18, Nursing Sister K.M. Oliver.,Eastbourne, No. 11 C.G.H.
+24/10/18, Nursing Sister L. Campbell.,Eastbourne, C.A.M.C.R.& T. Depot.
+24/10/18, Nursing Sister L.M. Gray.,Eastbourne, C.A.M.C.R.& T. Depot
+24/10/18, Nursing Sister R.O. Young.,Eastbourne, C.A.M.C.R.& T. Depot
+7/10/18, Nursing Sister K.J. Guild, No. 13 C.G.H., Eastbourne
+7/10/18, Nursing Sister E.M. MacCuish., No. 13 C.G.H., Eastbourne
+7/10/18, Nursing Sister V. Walker., No. 13 C.G.H., Eastbourne 
+8/10/18, Nursing Sister F.H. McNally., No. 15 C.G.H., Eastbourne 
+28/10/18, Nursing Sister C.R. Tanner., C.A.M.C. Cas. Coy,Eastbourne
+7/11/18, Nursing Sister A.Howard ,Eastbourne,No.9 C.G.H.
+1/11/18, Captain A.E.Fraileigh ,No.13 C.G.H. from Eastbourne
+5/11/18, Two Other Ranks ,Eastbourne,No.12 C.G.H
+5/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+14/11/18, Captain M.Beaton ,Eastbourne,No.13 C.G.H.
+8/11/18, Captain D.W.Morrison ,Eastbourne,C.A.M.C.Reserve and Training Depot
+9/11/18, Nursing Sister M.Hall ,Eastbourne,C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister J.S.Little ,Eastbourne,No.12 C.G.H.
+13/11/18, Nursing Sisters I.A.Charleton+O.L.Clark+E.R. Hathway+H.Hutchins and K.M.Leonard ,Eastbourne,C.A.M.C.Casualty Coy
+11/11/18, Captains J.O.Baker+J.D.Moore and L.J.Sebert ,Eastbourne,C.A.M.C.R& T. Depot
+10/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+11/11/18, One Other Rank ,C.A.M.C.A.R. & T.Depot,Eastbourne
+21/11/18, Captains W.C.Allison and N.S.Tait ,Eastbourne,C.A.M.C.R. & T.Depot
+20/11/18, Captain J.O.Baker ,Eastbourne,C.A.M.C.R. & T.Depot
+16/11/18, Captain G.F.Fenwick ,Eastbourne,Can.Spec.Hosp. Etchinghill
+1/11/18, Nursing Sister M.B.McKinnen ,Eastbourne,Westcliffe Eye & Ear Hospital
+20/11/18, Captain R.G.Moffat ,Can Red Cross Hosp.Bushay Park,Eastbourne
+21/11/18, Captain C.P.Fenwick ,No.13 C.G.H. from Eastbourne
+19/11/18, One Other Rank ,Eastbourne,C.A.M.C.Casualty Coy
+21/11/18, One Other Rank ,Eastbourne,C.A.M.C.R. & T.Depot
+16/11/18, Two Other Ranks ,C.A.M.C.Casualty Coy. from Eastbourne
+11/11/18, One V.A.D,Eastbourne,V.A.D.Headquarters
+18/11/18, One V.A.D,Eastbourne,V.A.D.Headquarters
+28/11/18, Nursing Sister R.R.Graham ,Eastbourne,C.A.M.C.Casualty Coy
+26/11/18, Nursing Sisters E.A.Bennett+M.S.P.Ellis A.R.R.C.+C.E.Pell and A.M.Powers ,C.A.M.C.Casualty Coy,Eastbourne
+27/11/18, One Other Rank ,Eastbourne,C.A.M.C.R.&T.Depot
+27/11/18, Twenty Other Ranks ,Eastbourne,C.A.M.C.R.&T.Depot
+25/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+27/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+14/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+25/11/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+28/11/18, Three Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne
+30/11/18, Nursing Sister S.J.Robley ARRC,Cdn.Red Cross Hospital,Eastbourne
+31/10/18, Nursing Sister A. Howard,Eastbourne,No. 9 C.G.H.
+9/11/18, Nursing Sister M. Hall,Eastbourne, C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister J.S. Little,Eastbourne, No. 12 C.G.H.
+13/11/18, Nursing SisterL.A. Charlton.,Eastbourne , C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister O.L. Clark.,Eastbourne, C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister K.R. Hathaway,Eastbourne, C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister H. Hutchins,Eastbourne, C.A.M.C. Casualty Coy
+13/11/18, Nursing Sister K.N. Leonard,Eastbourne, C.A.M.C. Casualty Coy
+1/11/18, Nursing Sister M.B. McKinnon. ,Eastbourne, Westcliffe Spcl. K.& K. Hospl.
+21/11/18, Nursing Sister R.R. Graham, C.A.M.C. Casualty Coy,Eastbourne
+26/11/18, Nursing Sister K.A. Bennett, C.A.M.C. Casualty Coy,Eastbourne
+26/11/18, Nursing Sister M.S.P. Ellis ARRC., C.A.M.C. Casualty Coy,Eastbourne
+26/11/18, Nursing Sister C.K. Pell. ,C.A.M.C. Casualty Coy,Eastbourne
+26/11/18, Nursing Sister A.M. Powers, C.A.M.C. Casualty Coy,Eastbourne
+28/11/18, Nursing Sister S.J. Robley ARRC., Can. Red Cross Hospital, Bushey Dask,Eastbourne
+7/12/18, Captain W.F.Coy ,C.A.M.C.Casualty Coy,Eastbourne
+6/12/18, One Other Rank ,Eastbourne,C.A.M.C.Casualty Coy
+7/12/18, Two Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne 
+14/12/18, Captain A.H.Wallace ,C.A.M.C.Casualty Coy,Eastbourne
+7/12/18, Nursing Sisters A.G.Luke+E.B.Rigger and J.S.Little ,Canadian Special Hospital Lenham,Eastbourne
+10/12/18, One Other Rank ,Eastbourne,C.A.M.C.Res.& Tng.Depot
+11/12/18, Twenty Other Ranks ,Eastbourne,C.A.M.C.Res.&Tng.Depot
+8/12/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+10/12/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+11/12/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+12/12/18, Twenty Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne
+21/12/18, Captain & Q.M. E.J.Thurgar ,Eastbourne,C.A.M.C.Casualty Coy
+20/12/18, Nursing Sister E.Bradley ,Eastbourne,No.5 C.G.H.
+19/12/18, Captain and Q.M. M.Wallace J.M. ,No.11 C.G.H. from Eastbourne
+16/12/18, Nursing Sister B.A.Fry ,Can. Red Cross Hosp. Bushey Park,Eastbourne
+17/12/18, Nursing Sisters A.C.C.DeWolfe+M.C.McCarthy+L.J.Fife, D.D.Morrison and E.Walsh ,No.9 C.G.H. from Eastbourne
+20/12/18, Five Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne
+28/12/18, Nursing Sister V.Walker ,Eastbourne,No.19 C.G.H. 
+28/12/18, Major J.C.Fishe ,C.A.M.C.Casualty Coy,Eastbourne
+19/12/18, Nursing Sister H.C.Claxtan ,No.10 C.G.H., Eastbourne
+26/12/18, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+21/12/18, Nursing Sister V. Walker, Eastbourne, #13 C.G.H., Hastings
+7/12/18, Nursing Sister A.G. Luke, Can. Special Hosp. Lenham,Eastbourne 
+7/12/18, Nursing Sister K.B. Bigger, Can. Special Hosp. Lenham,Eastbourne
+7/12/18, Nursing Sister J.S. Little, Can. Special Hosp. Lenham,Eastbourne
+14/12/18, Nursing Sister G.H. Gillean, C.A.M.C. Res. &Tng. Coy,Eastbourne
+19/12/18, Nursing Sister H.C. Claxton, #10 C.G.H. Brighton,Eastbourne
+16/12/18, Nursing Sister B.A. Fry, Can. Red Cross Hosp. Bushey Park,Eastbourne
+17/12/18, Nursing Sister A.C.C. DeWolfe, #9 Can. Gen. Hosp. Rhyl,Eastbourne
+17/12/18, Nursing Sister M.C. McCarthy, #9 Can. Gen. Hosp. Rhyl,Eastbourne
+17/12/18, Nursing Sister L.J. Fife, #9 Can. Gen. Hosp. Rhyl,Eastbourne
+17/12/18, Nursing Sister D.D. Morrison, to #9 Can. Gen. Hosp., Rhyl. from Eastbourne
+17/12/18, Nursing Sister K. Walsh, to #9 Can. Gen. Hosp., Rhyl. from Eastbourne 
+7-1-19, Nursing Sister H.W.Stevenson ,C.A.M.C.Casualty Coy,Eastbourne
+5-1-19, Three Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne
+14-1-19, Nursing Sister M.E.Maillard ,Eastbourne,C.A.M.C.Casualty Coy
+9-1-19, Captain W.F.Kennky ,Granville Canadian Special Hospital,Eastbourne
+13-1-19, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+21-1-19, Nursing Sister A.G.Luke ,Eastbourne,Can.Spcl Hospital Lanham
+16-1-19, One Other Rank ,Eastbourne,C.A.M.C.Casualty Coy.
+20-1-19, Two Other Ranks ,C.A.M.C.Casualty Coy,Eastbourne
+16-1-19, One Other Rank ,C.A.M.C.Res. & Tng. Depot,Eastbourne
+20-1-19, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+31-1-19, Hon.Lieut. & Q.M. Bell G.A.J. ,Eastbourne,C.A.M.C.Casualty Coy
+30-1-19, Captain R.A.Hughes ,Eastbourne,No.13 Canadian General Hospital
+28-1-19, Captain H.S.Tait ,No.16 Canadian General Hospital,Eastbourne
+29-1-19, One Other Rank ,C.A.M.C.Casualty Coy,Eastbourne
+8-1-19, Nursing Sister M.E. Maillard.,Eastbourne, C.A.M.C. Casualty Coy
+18-1-19, Nursing Sister A.G. Luke.,Eastbourne, Can. Spcl. Hospital, Lenham
+1-1-19, Nursing Sister H.N. Stevenson, C.A.M.C. Casualty Coy., Eastbourne
+7-2-19, Lt.E.E.Rogers ,Eastbourne,P.P.C.R.C.Hospital Bexhill
+1-2-19, Major F.H.Mayhood ,Eastbourne,No.13 C.G.H. Hastings
+3-2-19, Nursing Sister F.M.A.Kelly ,Eastbourne,C.A.M.C.Casualty Coy
+4-2-19, Nursing Sister S.Rowlandson ,Eastbourne,C.A.M.C.Casualty Coy
+6-2-19, Nursing Sisters I.G.Fargey and L.N.Grey ,C.A.M.C.Casualty Coy,Eastbourne
+24-1-19, One Other Rank ,Eastbourne,C.A.M.C.R.& T.Depot
+27-1-19, One Other Rank ,Eastbourne,C.A.M.C.R.& T.Depot
+31-1-19, One Other Rank ,C.A.M.C.Cas>coy,Eastbourne
+14-2-19, Captain B.M.Bayly ,Eastbourne,No.13 C.G.H.Hastings
+10-2-19, Nursing Sister M.M.E.Timlick ,Eastbourne,Granville Special Hospital
+10-2-19, Major W.G.Lyall,Eastbourne,No.13 C.G.H.Hastings 
+10-2-19, One Other Rank ,C.A.M.C.R.& T.Depot,Eastbourne
+10-2-19, Two Other Ranks,Eastbourne,C.A.M.C.R.& T.Depot
+26-2-19, One Other Rank,B.C.R.D.Seaford,Eastbourne
+21-2-19, Captain G.B.Ferguson ,Eastbourne,No.13 C.G.H. Hastings
+7-2-19, Nursing Sister R.M.Quinn ,Eastbourne,No.4 C.G.H.
+19-2-19, Nursing Sister I.V.Ramsay ,Eastbourne,C.A.M.C.Cas. Coy
+10-2-19, Nursing Sister H.D.Shearer ,Eastbourne,Can.Conval.Hosp
+6-2-19, Nursing Sisters E.Elliot+E.Hanna+S.Haines+A.L.Jack+M.L.Nodwell+K.Weegar ,Eastbourne,No.10 Can.Gen.Hosp. Brighton
+20-2-19, Nursing Sister G.J.Conner ,C.A.M.C.Cas.Co. from Eastbourne
+5-2-19, Thirty Other Ranks ,Eastbourne,C.A.M.C.R.&T.Depot
+19-2-19, Three Other Ranks ,C.A.M.C.Cas.Coy,Eastbourne
+28/2/19, Captain J.T. O’Connell ,Eastbourne,C.A.M.C.R. & T. Depot
+25-2-19, Hon. Captain & QM. Drummond W. ,Eastbourne,C.A.M.C.cas.Coy
+7-2-19, Nursing Sisters M. MacLeod and D.O. Tout ,Eastbourne,No.11 C.G.H.
+27-2-19, Nursing Sisters M.A. Cummings+L. Lynch and M.H. McGill ,Eastbourne,C.A.M.C.Cas.Coy.
+24-2-19, Hon. Captain and QM. Thurgar E.J. ,C.A.M.C. Cas. Coy. from Eastbourne
+27-2-19, Nursing Sister S. Rawlingson ,C.A.M.C. Cas. Coy. from Eastbourne
+14-2-19, Nursing Sister M. MacLeod ,C.A.M.C. Cas. Coy. from Eastbourne
+26-2-19, Nursing Sister D.M. Mole ,No.9 C.G.H. Rhyl,Eastbourne
+21-2-9, Nursing Sister R.R. Graham ,Can. Red. Cross Hosp Bushey Park,Eastbourne
+31-12-18, Captain A.R. Perry  ,C.E.F. in Canada,Eastbourne
+21-2-19, Major F.H. Mayhood  ,C.E.F. in Canada,Eastbourne
+25-2-19, Hon. Captain & R.C. Chaplain,Eastbourne,HQ. Chaplain Services
+27-2-19, Two other Ranks ,C.A.M.C.Cas. Coy. from Eastbourne
+3-2-19, Nursing Sister F.M.A. Kelly,Eastbourne,C.A.M.C.Cas.Coy
+4-2-19, Nursing Sister S. Rowlandson,Eastbourne, C.A.M.C.Cas.Coy
+6-2-19, Nursing Sister E. Elliott,Eastbourne, No.10 Can.Gen.Hosp.
+6-2-19, Nursing Sister A.L. Jack,Eastbourne, No.10 Can.Gen.Hosp.
+6-2-19, Nursing Sister M.L. Nodwell,Eastbourne, No.10 Can.Gen.Hosp.
+6-2-19, Nursing Sister K. Weegar,Eastbourne, No.10 Can.Gen.Hosp.
+6-2-19, Nursing Sister K.G. Hanna,Eastbourne, No.10 Can.Gen.Hosp.
+7-2-19, Nursing Sister S. Haines,Eastbourne, No.11 Can.Gen.Hosp
+7-2-19, Nursing Sister M. MacLeod,Eastbourne, No.11 Can.Gen.Hosp.
+7-2-19, Nursing Sister D.O. Tout,Eastbourne, No.11 Can.Gen.Hosp.
+7-2-19, Nursing Sister R.M. Quinn,Eastbourne, No.4 Can.Gen.Hosp.
+10-2-19, Nursing Sister M.M.E. Timlick,Eastbourne, Gran.Can.Spcl Hosp.
+10-2-19, Nursing Sister H.D. Shearer,Eastbourne, Can, Conval.Hosp.
+19-2-19, Nursing Sister I.V. Ramsay, Eastbourne, C.A.M.C.Cas.Coy.
+27-2-19, Nursing Sister M.A. Cummings,Eastbourne, C.A.M.C.Cas.Coy.
+27-2-19, Nursing Sister L. Lynch.,Eastbourne, C.A.M.C.Cas.Coy.
+27-2-19, Nursing Sister M.H. McGill.,Eastbourne, C.A.M.C.Cas.Coy.
+6-2-19, Nursing Sister L.G. Fargey, C.A.M.C.Cas.Coy,Eastbourne 
+6-2-19, Nursing Sister L.N. Gray.,C.A.M.C.Cas.Coy,Eastbourne
+11-2-19, Nursing Sister K. de Bellefeuille. ARRC. C.A.M.C.Cas.Coy., Eastbourne
+14-2-19, Nursing Sister M. MacLeod, C.A.M.C.Cas.Coy, Eastbourne
+20-2-19, Nursing Sister G.J.Conner., C.A.M.C.Cas.Coy., Eastbourne
+21-2-19, Nursing Sister R.R. Graham., Can.Red.Cross.Hosp.Bushey Park,Eastbourne
+27-2-19, Nursing Sister S. Rowlandson, C.A.M.C.Cas.Coy, Eastbourne 
+22-2-19, Nursing Sister D.M. Mole, No.9 C.G.H.Rhyl, Eastbourne 
